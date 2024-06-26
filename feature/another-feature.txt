@@ -1,1 +1,3 @@
 Another feature file!
+
+Changes for feature-2 branch.
